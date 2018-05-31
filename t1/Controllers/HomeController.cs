@@ -22,7 +22,7 @@ namespace t1.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "NTMS contact page.";
 
             return View();
         }
